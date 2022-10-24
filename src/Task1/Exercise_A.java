@@ -34,8 +34,6 @@ public class Exercise_A {
         System.out.print("Enter a number: ");
         Scanner scan = new Scanner(System.in);
         int b = scan.nextInt();
-        int sumEven = 0;
-        int sumOdd = 0;
 
         int tmp;
         int newNum = 0;
