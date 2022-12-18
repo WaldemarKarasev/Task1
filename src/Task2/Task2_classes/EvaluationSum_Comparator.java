@@ -1,4 +1,4 @@
-package Task2_classes;
+package Task2.Task2_classes;
 
 import java.util.Comparator;
 

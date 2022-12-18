@@ -1,4 +1,4 @@
-package Task2_classes;
+package Task2.Task2_classes;
 //__________________________________#16__________________________________//
 //4. Abiturient: id, Фамилия, Имя, Отчество, Адрес, Телефон, Оценки.Создать
 //        массив объектов. Вывести:
@@ -8,11 +8,7 @@ package Task2_classes;
 //        баллов (вывести также полный список абитуриентов, имеющих
 //        полупроходную сумму).
 
-import javax.swing.plaf.synth.SynthRadioButtonMenuItemUI;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Comparator;
 
 public class Abiturient {
     private int id;
